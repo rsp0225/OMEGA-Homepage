@@ -10,8 +10,8 @@ This project is now hosted on Netlify. You can view the live site at [https://om
 The Omega homepage replica includes the following components:
 
 - Navbar: The navbar component contains the Omega brand name and links to each of its products. The navbar is fixed at the top of the page.
-- Main: The main section includes a carousel, Bond 60 years section, and card section. The carousel contains images of Omega products, the Bond 60 years section contains information about Omega's collaboration with the James Bond franchise, and the card section provides information about Omega's latest products.
-- Footer: The footer section contains links to other Omega services, such as the online store and customer service center.
+- Main: The main section includes a carousel, Bond 60 years section, and card section. The carousel contains images of Omega products with models, the Bond 60 years section contains information about Omega's collaboration with the James Bond franchise, and the card section provides three images: Omega's latest products, men's selection, and women's selection. 
+- Footer: The footer section contains links to other Omega services, such as privacty and return policy. 
 
 ## Technologies Used
 The following technologies were used to create the Omega homepage replica:
